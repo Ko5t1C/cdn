@@ -1,0 +1,75 @@
+
+/* text color one 
+=====================*/
+.blue-dark a:hover ,.white-blue a:hover,.blog-date .right a:hover,.blog-date .left p a:hover,.theme-color,.footer-text a:hover ,.footer-two .footer-bottom .right li a:hover,.header-style-two .header-top .right li a:hover,.header-style-two .header-top .left li a:hover,.header-style-one .header-top .right li a:hover,nav ul>li:hover> a,nav li a.active,nav li a:focus,.search-box > i,.text-layer h1 span,.footer-two  .footer-bottom .left a:hover,.single-counter i,.head-part > h1,.features-text li i,.promo-text .button-style-1 a,.header-style-three .social-icon ul li a:hover,.header-style-three .header-middle .right li a:hover,.header-style-three nav> ul> li> ul> li:hover> a,.header-style-three nav> ul> li> ul> li ul li:hover a,.header-style-three nav li ul li a.active,.team-text .social-icon a:hover ,.page-header-area .right ul li a:hover,.single-contact li a:hover,.mainmenu ul > li ul.megamenu li i,
+.social-media li a:hover,.comment-box .text span a:hover,.login .right a:hover,.page-box-title span a,
+.login .left label a,.list-header .left h4 ,.domain-list .add-to-cart button,.order-payment .total-order > td:first-child ,li.anim-arrows > span.anim-arrows-prev::after, li.anim-arrows > span.anim-arrows-next::after,li.anim-arrows > span.anim-arrows-prev:hover::after,li.anim-arrows > span.anim-arrows-next:hover::after{
+	color: #F2766A;
+}
+/* background color one 
+=====================*/
+.title-line,.title-line::after ,#scrollUp,.bg-color-2,.hvr-right::before,.white-blue::before,.button-style-1 a,.header-style-one .header-top .right .live-chat a,.header-style-one .search-box form ,.service-one .single-service:hover .hexagon,.hexagon-one,nav a::after,nav a::before,.camera_next > span:hover::after, .camera_prev > span:hover::after,.single-choose .button-style-1 a:hover,.domain-box button,.subscribe-box button,.catelog h5,.active-hover .content-part .button-style-1 a,.mean-container .mean-bar, .mean-container .mean-nav,
+.single-service:hover .service-icon i,.accordion-one .faq-heading::after,.header-style-three .header-top .right a:hover,.header-style-three .is-sticky .header-bottom,.chat-body input[type="button"],.buy-now a,.check-icon,.control-checkboxx input:checked ~ .control-checked,.pagnation-ul a:hover,.pagnation-ul li.active a,.pagnation-ul a:focus,.tag-btn a:hover,.input-box button ,.table-one tr th ,.error-content .search-box-three button,.switcher-button,.switcher-body h3,.layout-btn a span,hr.line{
+	background-color: #F2766A;
+}
+
+.layout-btn a span:hover, .switcher-button:hover,.header-style-one .header-top .right .live-chat a:hover,.chat-box .head,.chat-body input[type="button"]:hover ,.layout-btn a span:hover ,.switcher-button:hover,.blue-dark::before,#scrollUp:hover,
+.header-style-one .header-top .right .live-chat a:focus,.control-checkboxx:hover input:checked:not([disabled]) ~ .control-checked{
+	background:#f1675b;
+}
+
+/* border color one 
+=====================*/
+.service-one .single-service:hover,.service-one .single-service:hover::after,.single-service:hover .service-icon i,.domain-list .add-to-cart button,.pagnation-ul a:hover,.pagnation-ul li.active a,.pagnation-ul a:focus,.tag-btn a:hover{
+  border-color: #F2766A;
+}
+.list-header .add-to-cart button:hover{
+  border-color: #f1675b;
+}
+.service-one .single-service:hover .hexagon:after,.hexagon-one::after{
+	border-top-color:#F2766A;
+}
+.service-one .single-service:hover .hexagon:before,.hexagon-one::before{
+	border-bottom-color:#F2766A;
+}
+
+/* rgba color one 
+=====================*/
+.overlay-one::after {
+  background: rgba(242, 118, 106,.8) none repeat scroll 0 0;
+}
+.blog-img.overlay::after {
+  background: rgba(242, 118, 106, 0.9) none repeat scroll 0 0;
+}
+.is-sticky .search-box form{
+  background: rgba(242, 118, 106, 0.8) none repeat scroll 0 0;
+}
+.client-des::after{background:#D67774;}
+.shape-one {
+    border-color: rgba(242, 118, 106, 0.6);
+}
+
+/* box shadow color one 
+=====================*/
+li.anim-arrows > span.anim-arrows-prev, li.anim-arrows > span.anim-arrows-next {
+  box-shadow: 0 0 0 2px #F2766A;
+}
+.anim-slider:hover > li.anim-arrows > span:hover {
+  box-shadow: 0 0 0 3px #F2766A;
+}
+
+/* shortcode alements
+================================*/
+
+.accordion-style-three [aria-expanded="false"] .accordion-heading > h3, .same-button-styles a.white-blue{
+	color: #F2766A;
+}
+.same-button-styles a.white-blue.black-blue{
+	color: #fff;
+}
+.accordion-style-one .accordion-heading::after,.accordion-style-two .accordion-heading > h3,.accordion-style-three .faq-p,.accordion-style-three [aria-expanded="true"] .accordion-heading > h3,.accordion-style-three [data-target="#accordion-three1"] .accordion-heading > h3,.accordion-style-four .panel-group,.accordion-style-four .faq-p, .same-button-styles a.blue-dark, .short-table-six tr th, .team-four .team-text{
+	background: #F2766A;
+}
+.accordion-style-three [aria-expanded="false"] .accordion-heading > h3 {
+  background: #f1f1f1 none repeat scroll 0 0;
+}
